@@ -40,6 +40,16 @@
 
 ![Chatbot d'aide dans l'espace Client](assets/prototype-screenshots/20-client-assistant-chatbot.png)
 
+## Infrastructure — Supabase / PostgreSQL
+
+Cette capture de la console Supabase est une preuve opérationnelle distincte des écrans du prototype mobile. Elle montre les journaux PostgreSQL du projet de test, avec des messages SQL et des checkpoints; elle ne certifie pas à elle seule la sécurité ni le bon fonctionnement de l’application.
+
+<p align="center">
+  <img width="1366" alt="Logs Supabase PostgreSQL du projet PLIEE-LIVRE-TEST" src="https://github.com/user-attachments/assets/1f46787f-cd75-42fb-bb42-b5ef1cd1e6b2" />
+</p>
+
+Lire le [détail de la capture et ses limites](12-supabase-logs.md).
+
 ## Inventaire complet
 
 Toutes les captures PNG sont conservées dans [`assets/prototype-screenshots/`](assets/prototype-screenshots/). L'index détaillé des fichiers se trouve dans le [README des captures](assets/prototype-screenshots/README.md). Le fichier `clipboard-capture.png` conserve également l'image qui se trouvait dans le presse-papiers lors de la capture.

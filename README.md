@@ -13,16 +13,22 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 - [Mobile — port 3001](docs/08-mobile.md)
 - [Incidents ouverts et feuille de route](docs/09-roadmap.md)
 - [Historique et décisions](docs/10-historique.md)
-- [Galerie visuelle du prototype mobile](docs/11-galerie-prototype.md)
+- [Galerie visuelle — prototype mobile et infrastructure](docs/11-galerie-prototype.md)
+- [Journaux Supabase / PostgreSQL](docs/12-supabase-logs.md)
 
-## Aperçu du prototype mobile
+## Aperçu visuel du projet
 
-Les captures des principaux parcours sont regroupées dans la [galerie visuelle](docs/11-galerie-prototype.md) : connexion, Client, Pro, Gestion et assistant intégré.
+La [galerie visuelle](docs/11-galerie-prototype.md) regroupe les parcours du prototype mobile (connexion, Client, Pro, Gestion et assistant). Les captures de l’application sont des écrans de démonstration; elles ne prouvent pas une intégration métier en production.
 
-<img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/1f46787f-cd75-42fb-bb42-b5ef1cd1e6b2" />
+### Infrastructure — journaux Supabase / PostgreSQL
 
+Capture du tableau **Logs** du projet de test `PLIEE-LIVRE-TEST`, filtré sur les événements PostgreSQL. On y voit des messages de journalisation de commandes SQL et des checkpoints. Il s’agit d’un aperçu opérationnel à un instant donné, pas d’un audit complet ni d’une preuve que chaque fonction métier fonctionne.
 
-![Aperçu — tableau de bord de gestion](docs/assets/prototype-screenshots/02-gestion-dash.png)
+<p align="center">
+  <img width="1366" alt="Console Supabase du projet PLIEE-LIVRE-TEST, journaux PostgreSQL avec commandes SQL et checkpoints" src="https://github.com/user-attachments/assets/1f46787f-cd75-42fb-bb42-b5ef1cd1e6b2" />
+</p>
+
+Pour le contexte et les limites d’interprétation, voir [Journaux Supabase / PostgreSQL](docs/12-supabase-logs.md). Pour les écrans du produit, voir aussi l’aperçu du [tableau de bord Gestion](docs/assets/prototype-screenshots/02-gestion-dash.png).
 
 ## État exécutif (2026-10-28)
 - Application Web Next.js/React dans `/home/dina/Desktop/PLIEE-LIVRE`, port de test 3000.
