@@ -23,6 +23,8 @@ La galerie dédiée à l’application Web (port 3000) est distincte de la galer
 
 ![Page d’accueil Web PLIEE-LIVRE](docs/assets/web-screenshots/01-accueil.png)
 
+> Capture réelle de `http://localhost:3000`, actualisée le 27 octobre 2026. Voir la [galerie Web complète](docs/13-galerie-web.md); la barre horizontale visible reste à corriger.
+
 ## Aperçu visuel du projet
 
 La [galerie visuelle](docs/11-galerie-prototype.md) regroupe les parcours du prototype mobile (connexion, Client, Pro, Gestion et assistant). Les captures de l’application sont des écrans de démonstration; elles ne prouvent pas une intégration métier en production.

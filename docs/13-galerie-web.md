@@ -1,10 +1,12 @@
 # Galerie visuelle — application Web PLIEE-LIVRE
 
-> Captures de l’application Web locale, servie sur le port 3000, à une fenêtre de bureau de 1440 × 1000. Cette galerie est distincte du [prototype mobile](11-galerie-prototype.md), servi séparément sur le port 3001.
+> Capture réelle de l’application Web locale (`http://localhost:3000`), réalisée le 27 octobre 2026 avec Microsoft Edge. La galerie Web reste distincte du [prototype mobile](11-galerie-prototype.md), servi séparément sur le port 3001.
 
 ## 1. Accueil — proposition de service
 
 ![Page d’accueil Web PLIEE-LIVRE](assets/web-screenshots/01-accueil.png)
+
+> Capture réelle copiée dans le presse-papiers puis intégrée ici. Le défilement horizontal visible est consigné comme anomalie d’affichage, sans modification du design dans cette documentation.
 
 La page d’accueil présente le service de collecte, lavage et livraison, l’action pour planifier une collecte, ainsi que les entrées vers les espaces Pro et mobile. La capture montre le rendu de la page au moment de l’inspection.
 
