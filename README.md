@@ -14,7 +14,14 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 - [Incidents ouverts et feuille de route](docs/09-roadmap.md)
 - [Historique et décisions](docs/10-historique.md)
 - [Galerie visuelle — prototype mobile et infrastructure](docs/11-galerie-prototype.md)
+- [Galerie visuelle — application Web](docs/13-galerie-web.md)
 - [Journaux Supabase / PostgreSQL](docs/12-supabase-logs.md)
+
+## Application Web — aperçu
+
+La galerie dédiée à l’application Web (port 3000) est distincte de la galerie du prototype mobile (port 3001). Elle contient les captures Web validées et inventorie les autres routes sans présenter de captures non vérifiées : [ouvrir la galerie Web](docs/13-galerie-web.md).
+
+![Page d’accueil Web PLIEE-LIVRE](docs/assets/web-screenshots/01-accueil.png)
 
 ## Aperçu visuel du projet
 
