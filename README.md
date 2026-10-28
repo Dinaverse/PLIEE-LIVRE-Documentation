@@ -19,7 +19,7 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 
 ## Application Web — aperçu
 
-La galerie Web (port 3000) documente le parcours public avec dix captures, puis détaille les pages Client, Pro, Gestion et Partenaire à partir des routes et composants de l’application. Les espaces protégés restent à capturer avec des sessions de test autorisées; la galerie mobile (port 3001) est séparée : [ouvrir la galerie Web complète](docs/13-galerie-web.md).
+Les deux prototypes Web sont documentés séparément : [index visuel des deux prototypes Web](docs/14-galeries-des-prototypes-web.md), [galerie Next.js (port 3000)](docs/13-galerie-web.md) et [galerie du prototype mobile (port 3001)](docs/11-galerie-prototype.md). Le prototype Vite original (port 4173) est décrit à part; ses nouvelles captures directes restent à réaliser lorsque le PC Windows et le serveur seront accessibles.
 
 ![Page d’accueil Web PLIEE-LIVRE](docs/assets/web-screenshots/01-accueil.png)
 

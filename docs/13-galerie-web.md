@@ -2,6 +2,10 @@
 
 > **Version de la galerie : 28 octobre 2026.** Captures du rendu Web local sur `http://localhost:3000`, réalisées avec Microsoft Edge. Cette galerie documente l'application Next.js Web et reste distincte du [prototype mobile](11-galerie-prototype.md), servi séparément sur le port 3001.
 
+## Les deux prototypes Web
+
+Cette page documente le prototype principal Next.js (`localhost:3000`). Pour éviter de mélanger les deux bases de code, consultez aussi l’[index des deux prototypes Web](14-galeries-des-prototypes-web.md), qui distingue cette application du prototype Vite original (`localhost:4173`). La galerie Vite attend encore de nouvelles captures directes : son serveur et le PC Windows ne sont pas accessibles depuis la session de capture actuelle.
+
 ## Sommaire
 
 - [Parcours public](#1-parcours-public)
