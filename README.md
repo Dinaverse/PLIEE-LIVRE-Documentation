@@ -19,7 +19,7 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 
 ## Application Web — aperçu
 
-Les deux prototypes Web sont documentés séparément : [index visuel des deux prototypes Web](docs/14-galeries-des-prototypes-web.md), [galerie Next.js (port 3000)](docs/13-galerie-web.md) et [galerie du prototype mobile (port 3001)](docs/11-galerie-prototype.md). Le prototype Vite original (port 4173) est décrit à part; ses nouvelles captures directes restent à réaliser lorsque le PC Windows et le serveur seront accessibles.
+Les deux prototypes d’application Web sont documentés séparément : [index visuel des deux prototypes Web](docs/14-galeries-des-prototypes-web.md), [galerie de l’application Next.js (port 3000)](docs/13-galerie-web.md) et [galerie du prototype Vite original (port 4173)](docs/14-galeries-des-prototypes-web.md#2-prototype-web-original--vite). La galerie Next.js inclut les parcours publics et les outils de démonstration Pro. Les nouvelles captures Vite doivent être prises sur le PC Windows lorsque celui-ci sera de nouveau connecté à Desktop Commander.
 
 ![Page d’accueil Web PLIEE-LIVRE](docs/assets/web-screenshots/01-accueil.png)
 

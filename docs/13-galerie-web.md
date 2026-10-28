@@ -190,6 +190,12 @@ Route dédiée aux redevances. Les montants et règles doivent être confirmés 
 
 La page introduit un prototype interactif inspiré de la maquette Vite. Le composant `PrototypeDemoLab` présente des parcours de démonstration autour des communications, factures, entretien textile, notifications, accès et atelier. Le texte de la page avertit que les interactions sont locales et que les données ne remplacent pas les intégrations de production.
 
+### 6.2 Démonstration Pro — `/pro/demo`
+
+![Capture réelle de l’espace Pro — outils de démonstration](assets/web-screenshots/13-pro-demo.png)
+
+Cette capture montre la page des outils de démonstration dans l’espace Pro, rendue par le prototype Next.js. Les exemples de communication et d’entretien sont des données de démonstration; la capture ne signifie pas que SMS, courriels ou opérations externes sont réellement envoyés.
+
 ### 6.2 Laboratoire interne — `/gestion/laboratoire`
 
 Même composant de démonstration, mais placé dans l'espace Gestion et protégé par le rôle administrateur. L'accès doit être validé avec une session admin de test; il ne faut pas confondre ce laboratoire avec les données réelles des commandes.

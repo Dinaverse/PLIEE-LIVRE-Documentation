@@ -17,7 +17,7 @@ Cette version porte le parcours public et les espaces métier reliés à l'archi
 | Domaine | Captures / contenu |
 |---|---|
 | Public | Accueil, À propos, Connexion, Inscription, récupération d'accès, Conditions, Confidentialité |
-| Découverte | Laboratoire public `/demo`, Devenir Pro, Devenir partenaire |
+| Découverte | Laboratoire public `/demo`, démonstration Pro `/pro/demo`, Devenir Pro, Devenir partenaire |
 | Client | Tableau de bord, commande, suivi, abonnement, profil, notifications — routes et fonctions documentées; captures authentifiées à compléter |
 | Pro | Missions, courses, gains, profil — routes et fonctions documentées; captures authentifiées à compléter |
 | Gestion | Tableau de bord, commandes, professionnels, tarifs, finances, fin de mois, applications, laboratoire — routes et fonctions documentées; captures authentifiées à compléter |
@@ -52,7 +52,7 @@ Cette version est le prototype UI/UX original conservé comme référence visuel
 
 **Référence fonctionnelle :** [carte de migration Vite → Next.js](../README.md#état-exécutif-2026-10-28) et fichier `PROTOTYPE-FEATURE-MAP.md` dans le dépôt source. Le tableau ci-dessus décrit le portage et n'est pas une capture du prototype Vite.
 
-### À faire pour compléter la galerie Vite avec des images réelles
+### Prochaine étape — compléter la galerie Vite avec des images réelles
 
 1. Réactiver le projet original sur le PC Windows depuis `C:\Users\dinac\Downloads\pli-livr-26-oct-2026-19-58-18`.
 2. Vérifier que `http://localhost:4173/` répond.
