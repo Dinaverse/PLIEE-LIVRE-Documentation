@@ -19,7 +19,7 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 
 ## Application Web — aperçu
 
-La galerie dédiée à l’application Web (port 3000) est distincte de la galerie du prototype mobile (port 3001). Elle contient les captures Web validées et inventorie les autres routes sans présenter de captures non vérifiées : [ouvrir la galerie Web](docs/13-galerie-web.md).
+La galerie Web (port 3000) documente le parcours public avec dix captures, puis détaille les pages Client, Pro, Gestion et Partenaire à partir des routes et composants de l’application. Les espaces protégés restent à capturer avec des sessions de test autorisées; la galerie mobile (port 3001) est séparée : [ouvrir la galerie Web complète](docs/13-galerie-web.md).
 
 ![Page d’accueil Web PLIEE-LIVRE](docs/assets/web-screenshots/01-accueil.png)
 

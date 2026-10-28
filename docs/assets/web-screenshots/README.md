@@ -1,8 +1,22 @@
-# Captures Web PLIEE-LIVRE
+# Captures Web — PLIEE-LIVRE
 
-- `01-accueil.png` — capture actualisée de la page d’accueil servie sur `http://localhost:3000`, prise le 27 octobre 2026 et copiée dans le presse-papiers. La barre de défilement horizontale reste visible dans la capture.
-- `06-a-propos.png` — page À propos et présentation du concept.
+Captures du site Web local `http://localhost:3000`, réalisées avec Microsoft Edge le 28 octobre 2026. Les images sont des captures d'écran du navigateur, non des maquettes reconstruites.
 
-Seules les captures validées visuellement sont conservées. Les captures blanches obtenues pendant les essais du navigateur headless ont été supprimées et ne sont pas utilisées dans la documentation.
+| Fichier | Page | Remarque |
+|---|---|---|
+| `01-accueil.png` | Accueil | Barre de défilement horizontale visible, conservée et signalée dans la galerie |
+| `02-connexion.png` | Connexion | Capture de rendu initial |
+| `03-inscription.png` | Inscription | Capture de rendu initial |
+| `04-mot-de-passe-oublie.png` | Mot de passe oublié | Capture de rendu initial |
+| `05-conditions.png` | Conditions du service | Capture de rendu initial |
+| `06-confidentialite.png` | Confidentialité | Capture de rendu initial |
+| `07-demo.png` | Laboratoire public de démonstration | Capture de rendu initial |
+| `08-devenir-pro.png` | Devenir Pro | Capture de rendu initial |
+| `09-devenir-partenaire.png` | Devenir partenaire | Capture de rendu initial |
+| `10-a-propos.png` | À propos | Capture de rendu initial |
 
-La capture est utilisée dans le [README principal](../../../README.md) et la [galerie Web](../../13-galerie-web.md). Elle documente le rendu observé, sans prétendre valider les parcours métier.
+Les images mesurent 1440 × 1200 pixels. Les captures sont utiles pour documenter le rendu visuel à la date indiquée; elles ne prouvent pas la réussite d'un parcours d'authentification, d'une action serveur, d'un paiement ou d'une écriture Supabase.
+
+Les pages Client, Pro, Gestion et Partenaire sont protégées. Elles doivent être capturées avec des sessions de test autorisées et des données fictives avant d'ajouter leurs images à cette galerie. Ne pas publier de coordonnées, de messages privés, de secrets, de cookies ou de données de vrais clients.
+
+Galerie : [documentation complète de l'application Web](../../13-galerie-web.md). L'application mobile sur le port 3001 est documentée séparément.
