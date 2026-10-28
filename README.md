@@ -19,6 +19,9 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 
 Les captures des principaux parcours sont regroupées dans la [galerie visuelle](docs/11-galerie-prototype.md) : connexion, Client, Pro, Gestion et assistant intégré.
 
+<img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/1f46787f-cd75-42fb-bb42-b5ef1cd1e6b2" />
+
+
 ![Aperçu — tableau de bord de gestion](docs/assets/prototype-screenshots/02-gestion-dash.png)
 
 ## État exécutif (2026-10-28)
