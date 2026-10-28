@@ -21,3 +21,6 @@ Un contrôle JavaScript peut être contourné. Il ne protège pas des données r
 
 ## Critères de sortie
 Les quatre comptes se connectent et arrivent au bon espace; accès croisés refusés; aucun secret privé dans le bundle; UI existante préservée; les simulations sont identifiées comme telles.
+## Captures d’écran du prototype
+
+La galerie illustrée des écrans est disponible dans [Galerie visuelle — prototype mobile](11-galerie-prototype.md). Elle comprend les parcours de connexion, Client, Pro, Gestion et le chatbot. Les captures sont statiques et issues de données de démonstration; elles ne prouvent pas une intégration de production.

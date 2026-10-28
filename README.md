@@ -13,6 +13,13 @@ Dernière consolidation : 2026-10-28. Documentation en français du produit, de 
 - [Mobile — port 3001](docs/08-mobile.md)
 - [Incidents ouverts et feuille de route](docs/09-roadmap.md)
 - [Historique et décisions](docs/10-historique.md)
+- [Galerie visuelle du prototype mobile](docs/11-galerie-prototype.md)
+
+## Aperçu du prototype mobile
+
+Les captures des principaux parcours sont regroupées dans la [galerie visuelle](docs/11-galerie-prototype.md) : connexion, Client, Pro, Gestion et assistant intégré.
+
+![Aperçu — tableau de bord de gestion](docs/assets/prototype-screenshots/02-gestion-dash.png)
 
 ## État exécutif (2026-10-28)
 - Application Web Next.js/React dans `/home/dina/Desktop/PLIEE-LIVRE`, port de test 3000.
